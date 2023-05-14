@@ -1,0 +1,4 @@
+name: farst-bet
+version: '1.0.0'
+main: mask.inc.farstbet.Farst_bet
+api-version: 1.19
